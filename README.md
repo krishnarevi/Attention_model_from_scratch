@@ -222,4 +222,4 @@ We are getting very poor results now as model has seen only one input sentence o
 
 
 
-Refer to complete solution  [here](https://github.com/krishnarevi/TSAI_END2.0_Session11/blob/main/NLP%20From%20Scratch%20Translation%20With%20A%20Sequence%20To%20Sequence%20Network%20And%20Attention.ipynb)
+Refer to complete solution  [here](https://github.com/krishnarevi/Attention_model_from_scratch/blob/main/NLP%20From%20Scratch%20Translation%20With%20A%20Sequence%20To%20Sequence%20Network%20And%20Attention.ipynb)
